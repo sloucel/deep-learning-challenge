@@ -17,7 +17,7 @@ Module 21 Challenge
 * Sun Aug 25th at 11:30PM - Created clean section for Optimization Attempt #2 - Binning of ASK_AMT
 * Sun Aug 25th at 1:30 PM - Created clean section for Optimization Attempt #3 - Remove Weakest Features
 * Sun Aug 25th at 2:45 PM - Created clean section for Optimization Attempt #4 - Auto Optimization
-* Sun Aug 25th at 7:45 PM - Completed Aphabet Soup Neural Network Report 
+* Sun Aug 25th at 7:45 PM - Completed Alphabet Soup Neural Network Report 
 
 # Resources
 * **Preprocessing**: predicting_diabetes_solution.ipynb
